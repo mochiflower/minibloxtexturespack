@@ -30,6 +30,8 @@ How to download chrome extension:
 Does not work with Back2Basics!!
 Other active texture packs may interfere with these textures!
 
+Mob avatars rights to original owners on Novaskin
+
 Discord: awesomecookiee679511 YouTube: MochiMiniblox (@xxm0ch1_pyx3l.artzxx._yt)
 
 (contact me for any errors or bugs)
