@@ -19,7 +19,17 @@ Offical look:
 <img width="239" height="273" alt="Screenshot 2026-04-02 045635" src="https://github.com/user-attachments/assets/3f33ad11-8c52-4b9c-89ab-4b1ad68d0243" />
 <img width="1302" height="611" alt="image" src="https://github.com/user-attachments/assets/fe5f969e-8805-4561-86eb-08fbdc883414" />
 
+How to download chrome extension:
 
-Does not work with Back2Basics!! Other active texture packs may interfere with these textures!
+1. Click the green button that says Code and then click the last option "Download ZIP"
+2. Go to your files and extract the ZIP
+3. Go to chrome://extensions/ and turn on Dev (developer) mode in the top right corner
+4. The top left corner, click load unpacked and find the (extracted) file/zip (if it says any error like couldnt find manifest then try again i promise it works)
+5. Open/refresh Miniblox, join a server and summon any mob!
+
+Does not work with Back2Basics!!
+Other active texture packs may interfere with these textures!
 
 Discord: awesomecookiee679511 YouTube: MochiMiniblox (@xxm0ch1_pyx3l.artzxx._yt)
+
+(contact me for any errors or bugs)
