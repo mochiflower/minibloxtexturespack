@@ -1,0 +1,22 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "Miniblox Entity Textures",
+  "version": "1.3",
+  "description": "makes mobs look super cool!",
+  "author": "mochi_iris",
+  "background": {"service_worker": "background.js"},
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": [
+   "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "https://miniblox.io/*",
+    "https://miniblox.online/*",
+    "https://miniblox.org/*",
+    "https://raw.githubusercontent.com/*"
+  ]
+}
