@@ -12,9 +12,6 @@ const URL_MAP = {
   "||miniblox.*textures/entity/ghost/ghost.png": "https://t.novaskin.me/93dd9e2a6b60228acc62c70e418e5dbcd2a9b1353374ab3b95305a0201f42afb",
   "||miniblox.*textures/entity/zombie_cowman/zombie_cowman.png": "https://t.novaskin.me/9a0ade1a3da5e97da922070ed617ed804e9c6819aedf5add7ebcc3c7b5186f29",
   "||miniblox.*textures/entity/snowman/snowman.png": "https://t.novaskin.me/f012164b6b9b23d12a816523edd7b28f1c2f84eddb90639251e0657d5518c913",
-  "||miniblox.*textures/entity/arrow.png": "https://t.novaskin.me/85155e568c92a35d2ad7aa255fe20447d37cff6cbbd7dc94146524c2398ba91e",
-  "||miniblox.*textures/entity/bow.png": "https://t.novaskin.me/69ea512b16c109584dbc784ea50547f9bed3b3dbdc496e6452104b7280322853",
-  "||miniblox.*textures/misc/enchanted_item_glint.png": "https://t.novaskin.me/df09d729624122bad23a03cc503b132167c2a9b2ad6859a8db60cbf70459d6f6"
 };
 
 let rules = [];
